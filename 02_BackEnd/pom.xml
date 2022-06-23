@@ -7,6 +7,8 @@
     <groupId>lk.ijse</groupId>
     <artifactId>02_BackEnd</artifactId>
     <version>1.0.0</version>
+    <packaging>war</packaging>
+
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
