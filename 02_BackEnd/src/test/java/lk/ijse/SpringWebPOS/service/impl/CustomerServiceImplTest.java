@@ -5,6 +5,5 @@
 
 package lk.ijse.SpringWebPOS.service.impl;
 
-public class CustomerServiceImpl {
-
+public class CustomerServiceImplTest {
 }
