@@ -5,5 +5,5 @@
 
 package lk.ijse.SpringWebPOS.repo;
 
-public class CustomerRepo {
+public interface CustomerRepo {
 }
